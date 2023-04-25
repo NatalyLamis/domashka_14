@@ -28,6 +28,7 @@ body{
 .nav-articles{
     display: flex;
     justify-content: space-between;
+    gap: 10px;
 }
 .nav-articles__item{
     line-height: 2.08;
